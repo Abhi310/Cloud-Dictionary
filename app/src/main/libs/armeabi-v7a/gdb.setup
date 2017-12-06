@@ -1,0 +1,2 @@
+set solib-search-path C:/Users/Ayush/Android/AndroidCamera-master/app/src/main/obj/local/armeabi-v7a
+directory C:/Users/Ayush/AppData/Local/Android/sdk/ndk-bundle/build//../sysroot C:/Users/Ayush/AppData/Local/Android/sdk/ndk-bundle/build//../sources/cxx-stl/system/include C:/Users/Ayush/Android/AndroidCamera-master/app/src/main/jni
